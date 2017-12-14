@@ -1,0 +1,57 @@
+/* Normal desktop :992px. */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    
+}
+    
+
+/* tablet desktop :768px. */
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+.feature-area .absolute-img {
+  position: relative;
+  right: 0;
+}
+.section-title {
+  margin-bottom: 20px;
+}
+.single-feature-item h3 {
+  margin-top: 30px;
+}
+.feature-wrap {
+  padding-bottom: 0;
+}
+
+}
+
+    
+    
+/* Small Mobile :320px. */
+
+@media (max-width: 767px) {
+.feature-area .absolute-img {
+  position: relative;
+  right: 0;
+}
+.section-title {
+  margin-bottom: 20px;
+}
+.single-feature-item h3 {
+  margin-top: 30px;
+}
+.feature-wrap {
+  padding-bottom: 0;
+}
+
+}
+    
+    
+    
+/* Large Mobile :480px. */
+@media (min-width: 480px) and (max-width: 767px) {
+
+
+}
